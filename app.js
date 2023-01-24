@@ -51,3 +51,4 @@ const hideMenu = () => {
 }
 
 menuLinks.addEventListener('click', hideMenu);
+navLogo.addEventListener('click', hideMenu);
