@@ -193,7 +193,7 @@
 .hero {
     background: #000000;
     background: linear-gradient(to right, #161616, #000000);
-    padding: 200px 0;
+    padding: 2rem 0;
 }
 
 .hero__container {
@@ -210,7 +210,7 @@
 
 .hero__heading {
     font-size: 100px;
-    margin-bottom: 24px;
+    margin-bottom: 30px;
     color: #fff;
 }
 
@@ -253,7 +253,7 @@
 
 .main {
     background-color: #131313;
-    padding: 10rem 0;
+    padding: 5rem 0;
 }
 
 .main__container {
@@ -399,7 +399,7 @@
 
     .main__content {
         text-align: center;
-        margin-bottom: 4rem;
+        margin-bottom: 0.1rem;
     }
 
     .main__content h1 {
@@ -430,7 +430,8 @@
 
     .main__content h1 {
         font-size: 2rem;
-        margin-top: 3rem;
+        margin-top: 1rem;
+        margin-bottom: 1.5rem;
     }
 
     .main__content h2 {
@@ -438,12 +439,12 @@
     }
 
     .main__content p {
-        margin-top: 2rem;
+        margin-top: 1.5rem;
     }
 
     .main__btn {
         padding: 12px 36px;
-        margin: 2.5rem 0;
+        margin: 1rem 0;
     }
 }
 
@@ -454,7 +455,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    padding: 10rem 0;
+    padding: 5rem 0;
 }
 
 .services h1 {
@@ -465,7 +466,7 @@
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-coloe: transparent;
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
     font-size: 4rem;
 }
 
